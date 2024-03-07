@@ -43,37 +43,19 @@ export const servicesData = [
         title: 'Photography',
         icon: <FaCameraRetro />
     },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
     {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
+        id: 10,
+        title: 'Testing', 
+         icon: <BsClipboardData />
     },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
+    
     {
         id: 11,
         title: 'Ebook Writing',
         icon: <FaTabletAlt />
     },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
-
+    
+    
 ]
 
 // Uncomment your required service.
