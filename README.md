@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Developer Portfolio 
 
 <p align="center">
@@ -508,3 +509,7 @@ export const educationData = [
         </tr>
     </table>
 </div>
+=======
+# portfolio
+my portfolio
+>>>>>>> 34a4aa59ce7275c898579a1587b30d4be4e5d5dd
